@@ -14,7 +14,7 @@ The AI Resume Analyzer is a powerful tool designed to enhance resume evaluation 
 ### Tech Stack
 
 - **Frontend**: Streamlit, HTML, CSS, JavaScript
-- **Backend**: Python, Streamlit
+- **Backend**: Python (3.9.x), Streamlit
 - **Database**: MySQL
 - **Modules**: pandas, pyresparser, pdfminer3, Plotly, NLTK
 
